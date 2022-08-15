@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container h1, label, a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
